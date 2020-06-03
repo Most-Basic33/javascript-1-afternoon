@@ -4,7 +4,7 @@
 //Create a variable called myName that is a string data type
 
 //Code here
-let myName = 'Bishop';
+let myName = 'Bishop Walker';
 //////////////////PROBLEM 2////////////////////
 
 //Create a variable called myAge that is a number data type
